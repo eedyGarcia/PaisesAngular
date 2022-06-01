@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+.img-flag{
+    max-width: 50px;
+}
+
+.img-medium{
+    max-width: 100px;
+}
